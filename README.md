@@ -29,22 +29,22 @@ Frontend: Interface simples com Vite para consultas
 Passo a Passo
 
 1. Clone o repositório:
-  git clone https://github.com/2xTi/amazon-scraper-test-longlifenutri.git
-  cd amazon-scraper-test-longlifenutri
+  - git clone https://github.com/2xTi/amazon-scraper-test-longlifenutri.git
+  - cd amazon-scraper-test-longlifenutri
 
 2. Backend:
-  cd backend
-  bun install
-  bun run server.ts
+  - cd backend
+  - bun install
+  - bun run server.ts
 
 3. Frontend (em outro terminal):
-  cd frontend
-  npm install
-  npm run dev
+  - cd frontend
+  - npm install
+  - npm run dev
 
 4. Acesse:
-  Frontend: http://localhost:5173
-  API: http://localhost:3000/api/scrape?keyword=produto
+  - Frontend: http://localhost:5173
+  - API: http://localhost:3000/api/scrape?keyword=produto
 
 🔍 Como Usar
   - Digite um termo de busca (ex: "fone bluetooth")
