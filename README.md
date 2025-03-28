@@ -8,21 +8,11 @@ Frontend: Interface simples com Vite para consultas
 ⚠️ Atenção: A Amazon bloqueia requisições automatizadas. Este projeto é apenas para fins educacionais.
 
 🛠️ Tecnologias Utilizadas
-Área	Tecnologias
+Área Tecnologias
 Backend	Bun, Express, Axios, JSDOM
 Frontend	HTML5, CSS3, JavaScript (Vanilla), Vite
 Ferramentas	Git, GitHub
-📦 Estrutura de Arquivos
-amazon-scraper/
-├── backend/
-│   ├── server.ts         # Endpoint da API
-│   ├── package.json      # Dependências
-├── frontend/
-│   ├── src/
-│   │   ├── main.js       # Lógica principal
-│   │   ├── style.css     # Estilos
-│   │   └── index.html    # Estrutura base
-└── README.md             # Este arquivo
+
 🚀 Como Executar
 - Pré-requisitos
 - Bun (ou Node.js 18+)
