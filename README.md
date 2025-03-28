@@ -8,10 +8,19 @@ Frontend: Interface simples com Vite para consultas
 ⚠️ Atenção: A Amazon bloqueia requisições automatizadas. Este projeto é apenas para fins educacionais.
 
 🛠️ Tecnologias Utilizadas
-Área Tecnologias
-Backend	Bun, Express, Axios, JSDOM
-Frontend	HTML5, CSS3, JavaScript (Vanilla), Vite
-Ferramentas	Git, GitHub
+Backend:
+  - Bun
+  - Express
+  - Axios
+  - JSDOM
+Frontend:
+  - HTML5
+  - CSS3
+  - JavaScript (Vanilla)
+  - Vite
+Ferramentas:
+	- Git
+  - GitHub
 
 🚀 Como Executar
 - Pré-requisitos
